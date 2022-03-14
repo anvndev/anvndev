@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 --->
 •⚡ Fun fact: I quite like music, coding, reading, football,... ✨ Ahihi <br>
-•📫 How to contact me: https://albert-van.github.io/albert/ 😉😁 <br>
+•📫 How to contact me: https://anvndev.github.io/albert/ 😉😁 <br>
 •🌱 Inspirational maxim: "Not a day, without a line" <br>
 <!-- <body>
 <img src=“https://giphy.com/gifs/cartoonhangover-cartoons-bravestwarriors-836HiJc7pgzy8iNXCn?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=” alt=“Hi”></body> -->
