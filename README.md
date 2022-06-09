@@ -24,3 +24,9 @@ Here are some ideas to get you started:
 <!-- ![Alt Text](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=790b76118a22b83e932672f3151d6f4133bb6860bfeb58bc&rid=giphy.gif&ct=g) -->
 ![Alt Text](https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif?cid=790b76114811845498625448c55554f2a9ce0252c1c72d40&rid=giphy.gif&ct=g)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
