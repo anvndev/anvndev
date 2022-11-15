@@ -1,7 +1,7 @@
 
 ### Hi there 👋 I'm Anvndev! Nice to meet you 
 •⚡ Fun fact: I quite like music, coding, reading, football,... ✨ Ahihi <br>
-<!-- •📫 How to contact me: https://anvndev.github.io/albert/ 😉😁 <br> -->
+<!-- •📫 How to contact me: https://anvndev.github.io/ 😉😁 <br> -->
 •🌱 Inspirational maxim: "Not a day, without a line" <br>
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/anvndev/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/anvndev) [![AboutMe](https://img.shields.io/badge/AboutMe-Anvndev-brightgreen)](https://anvndev.com) [![Avndev'sBlog](https://img.shields.io/badge/Anvndev's-Blog-red)](https://sites.google.com/view/anvndev-blog/home)
