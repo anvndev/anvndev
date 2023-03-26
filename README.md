@@ -40,10 +40,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Anvndev&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anvndev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
  -->
- <div align="center">
+<!--  <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
----
+</div>   -->
+
 <!-- [![](https://visitcount.itsvg.in/api?id=Anvndev&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 # Thank you!
