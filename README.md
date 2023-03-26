@@ -6,7 +6,8 @@
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/anvndev/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/anvndev) [![AboutMe](https://img.shields.io/badge/AboutMe-Anvndev-brightgreen)](https://anvndev.github.io/) [![Avndev'sBlog](https://img.shields.io/badge/Anvndev's-Blog-red)](https://sites.google.com/view/anvndev-blog/home)
 
-# 📱Professional
+<!-- # 📱Professional -->
+# 📱Tech Stack
 <!--  tech -->
 <!-- <table><tr><td valign="top" width="33%"> -->
 <div align="center">  
