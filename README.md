@@ -15,7 +15,7 @@ Although not very active here at the moment, I’m always exploring and improvin
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/anvndev/) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/anvndev) 
 [![About Me](https://img.shields.io/badge/AboutMe-Anvndev-brightgreen)](https://anvndev.github.io/) 
-[![Blog](https://anvndev.github.io/initdotbug/)
+[![Blog](https://img.shields.io/badge/Anvndev's-Blog-red)](https://anvndev.github.io/initdotbug/)
 
 ---
 
