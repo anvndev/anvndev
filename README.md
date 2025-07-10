@@ -4,7 +4,7 @@
 Although not very active here at the moment, I’m always exploring and improving behind the scenes. <br>
 💡 Interests: Coding, music, reading, football, and tech in general.  
 🌱 Personal motto: *“Not a day without a line.”* <br>
-🪴 [A small website about psychology](https://anvndev.github.io/psyofme/)
+🪴 A small website about [psychology](https://anvndev.github.io/psyofme/)
 
 ---
 
